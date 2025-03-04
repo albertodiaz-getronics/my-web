@@ -1,0 +1,1 @@
+// Modernizr script placeholder

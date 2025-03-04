@@ -1,0 +1,1 @@
+// Respond.js script placeholder
